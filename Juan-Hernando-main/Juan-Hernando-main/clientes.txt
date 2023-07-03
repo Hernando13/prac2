@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Juan Carlos",
+    "tipo": 1,
+    "rif": "12345678",
+    "email": "Juan@gmail.com",
+    "address": "Calle 1",
+    "phone": "04141234567"
+  },
+  {
+    "name": "Polar",
+    "tipo": 2,
+    "rif": "12345678",
+    "email": "polar@gmail.com",
+    "address": "Calle 1",
+    "phone": "04141234567"
+  }
+]
